@@ -201,3 +201,5 @@ Button(win, text = 'START', font = 'arial 15', command = emotRegSys, bg = '#4dff
 Button(win, text = 'ABOUT', font = 'arial 15', command = about, bg = 'yellow').place(x = 198, y = 200)
 Button(win, text = 'CREDITS', font = 'arial 15', command = credit, bg = 'cyan').place(x = 188, y = 260)
 win.mainloop()
+
+# END
